@@ -18,3 +18,8 @@ print(text[0:3])
 print(text[2:5:2]) # 마지막 인수는 간격을 의미한다
 print(text[0:8:2])
 
+
+print(text[::-1]) # 문자열을 뒤집는다 
+
+
+
